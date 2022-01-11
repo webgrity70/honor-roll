@@ -1,0 +1,90 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<footer class="footer">
+		<div class="footer1">
+			<div class="boxWrapper">
+				<div class="columnWrapper">
+					<div class="columnOne">
+						<h4 class="widgetTitle wow fadeInDown" >Contact Us</h4>
+
+						<address>
+							<p><span class="textYellow">The Childcare Center</span> <br>3904 Monterrey Dr<br>Granbury, Texas(TX), 76049</p>
+
+							<div class="contList">
+								<p><span class="textYellow">Phone:</span> (682) 205-1030</p>
+								<p><span class="textYellow">Email:</span> random@childcare.com</p>
+							</div>
+						</address>
+					</div>
+					<div class="columnTwo">
+						<h4 class="widgetTitle wow fadeInDown" data-wow-delay="150ms">Quick links</h4>
+						<nav>
+							<ul class="quikLinks">
+								<li>
+									<a href="#">Home</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Programs</a>
+								</li>
+								<li>
+									<a href="#">Enrollment</a>
+								</li>
+								<li>
+									<a href="#">Schedule</a>
+								</li>
+								<li>
+									<a href="#">Meals</a>
+								</li>
+								<li>
+									<a href="#">News</a>
+								</li>
+								<li>
+									<a href="#">Contact Us</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+					<div class="columnThree">
+						<h3 class="widgetTitle wow fadeInDown" data-wow-delay="300ms">Social Media</h3>
+
+						<ul class="socialList">
+							<li class="wow fadeInDown" >
+								<a href="#">
+									<img src="../images/fb.png" alt="">
+								</a>
+							</li>
+							<li class="wow fadeInDown"  data-wow-delay="150ms">
+								<a href="#">
+									<img src="../images/twitter.png" alt="">
+								</a>
+							</li>
+							<li class="wow fadeInDown"  data-wow-delay="250ms">
+								<a href="#">
+									<img src="../images/insta.png" alt="">
+								</a>
+							</li>
+							<li class="wow fadeInDown"  data-wow-delay="350ms">
+								<a href="#">
+									<img src="../images/google+.png" alt="">
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="copyRight">
+			<div class="boxWrapper">
+				<div class="left">
+					<p>Copyright © The Childcare Center. All Rights Reserved. Websites for Daycares</p>
+				</div>
+				<div class="right">
+					<a href="#">
+						<img src="../images/footerlogo.png" alt="">
+					</a>
+				</div>
+			</div>
+		</div>
+	</footer>

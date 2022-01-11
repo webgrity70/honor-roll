@@ -1,0 +1,56 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<header class="header" id="header">
+		<nav class="navbar">
+			<div class="container">
+				<a href="../index.html">
+					<img src="../images/logo.png" alt="" class="logo">
+				</a>
+				<button id="menuToggler"><img src="../images/menu.png" alt=""><span> Menu</span></button>
+				<div class="navbarCollapse">
+					<nav id="navigation">
+						<ul>
+							<li>
+								<a href="../index.html">Home</a>
+							</li>
+							<li>
+								<a href="../about.html">About</a>
+							</li>
+							<li class="haveDropown">
+								<a href="#">Programs</a>
+								<ul class="dropdownMenu">
+									<li>
+										<a href="#">Infant</a>
+									</li>
+									<li>
+										<a href="#">Toddler</a>
+									</li>
+									<li>
+										<a href="#">Early Preschool</a>
+									</li>
+									<li>
+										<a href="#">Preschool</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="#">Enrollment</a>								
+							</li>
+							<li>
+								<a href="#">Schedule</a>
+							</li>
+							<li>
+								<a href="#">Meals</a>
+							</li>
+							<li>
+								<a href="#">News</a>
+							</li>
+							<li>
+								<a href="../contact.html">Contact Us</a>
+							</li>
+						</ul>
+					</nav>
+						
+				</div>
+					
+			</div>
+		</nav>
+	</header>
